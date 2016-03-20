@@ -1,7 +1,3 @@
----
-title: Bunto - EULA in Markdown
----
-
 [![Bunto](images/logo.png)](https://bunto.github.io/eula/)
 
 
