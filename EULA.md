@@ -1,3 +1,9 @@
+---
+title: Bunto - EULA in Markdown
+redirect_from:
+  - download-md.html
+---
+
 [![Bunto](images/logo.png)](https://bunto.github.io/eula/)
 
 
