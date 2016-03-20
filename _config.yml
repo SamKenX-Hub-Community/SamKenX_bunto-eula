@@ -1,0 +1,8 @@
+# Bunto / Jekyll _config.yml file
+
+## URL
+url: https://bunto.github.io/eula/
+
+## Gems
+gems:
+  - jekyll-redirect-from
